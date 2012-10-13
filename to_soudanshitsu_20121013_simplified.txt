@@ -2,15 +2,27 @@ ki'e guskant.
 
 to'u
 
-問題となるのは、
+問題となるのは、pau が
 
-pau が mi te preti lo ... lo sedu'u ...       --- (1)
-mi bazi te preti fo do .i ...                 --- (2)
+mi te preti lo ... lo sedu'u ...       goi (1)
+mi bazi te preti fo do .i ...          goi (2)
 
 のどちらを意味するのかということです。
 
-また、pau pei zvati makau はたとえ (1) であったとしても、
+ji'a
+pau pei zvati makau はたとえ (1) であったとしても、
 疑問に思う気持ちを質問しているということになります。
+
+ji'a
+さらに言えば pau nai が rhetorical question を意味することを考えると、
+たとえば pau pei go'i と言った場合に、
+「それは本当に聞いているの、それとも修辞的な疑問なのですか。」
+というような意味になると思われます。
+
+ku'i
+zvati ma
+に対しての返事として、
+pau pei zvati makau を考えるならば、
 
 to'unai
 
@@ -52,8 +64,8 @@ pau do klama xu のように使われます。
 pau の CLL での説明は "like the symbol at the beginning of written Spanish
 questions that looks like an upside-down question mark" となっています。
 本来の意味としては pau は単独では疑問文を作ることはできないはずです。
-たとえば、pau mi klama と言った場合、
-たとえば日本語で「全然ある」とか「すこししかある」と言ったような異和感が
+pau mi klama と言った場合、
+たとえば日本語で「全然ある」とか「すこししかある」と言った場合のような異和感が
 出てくるのではないでしょうか。
 もちろん「全然ある」は最近では普通に使われますので、
 必ずしも完全な誤用ではないとは思いますが。
@@ -61,13 +73,17 @@ questions that looks like an upside-down question mark" となっています。
 たとえば、「元気?」「全然」と言うことは可能です。
 同様に、"xu do jimpe" ".i pau" と言えば何か疑問を持っているなとわかりますが、
 それは pau に疑問文を作る機能があるというのとは異なります。
-「全然」が「ない」を暗示するように、
-pau は疑問を暗示すると考えるべきではないでしょうか。
+疑問を伴わない場合の pau は、「全然」が「ない」を暗示するように、
+疑問を暗示すると考えるべきではないでしょうか。
 
 以上のように、pau の意味合いとしては「これから疑問を投げかけますよ」
 といった意味だと思います。
 つまり、mi te preti lo ... lo sedu'u ... ではなく、
 mi bazi te preti fo do .i ... という意味なのではないでしょうか。
+
+ku'i
+ただし、pau do klama xu が疑問に疑問を重ねる重複した表現であると考えるならば、
+(1) の解釈も通るかとは思いますが、CLL の説明からはそうは思えません。
 
 >    > djuno lo du'u zvati da と djuno lo du'u zvati ma kau との違いは
 >    > 実のところ強調点の違いだと思います。
@@ -144,6 +160,12 @@ pau pei と聞いている以上、相手の答えは pau nai か pau か pau cu
 といったところになります。
 この場合、xu 以上に質問の焦点は厳密に狭まります。
 つまり「疑問に思っているかどうか」ということしか聞いていません。
+
+ji'a
+さらに言うと pau nai が rhetorical question を意味することを考えると、
+pau pei go'i と言った場合には
+「本当にそれを尋ねているの?それとも修辞的に聞いているの?」といった質問に
+なるかと思いますが。
 
 ta'o
 「あった処でございますか?」は「あった処はどこか」という質問と
