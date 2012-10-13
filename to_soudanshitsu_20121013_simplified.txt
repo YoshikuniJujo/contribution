@@ -8,6 +8,10 @@ mi te preti lo ... lo sedu'u ...       goi (1)
 mi bazi te preti fo do .i ...          goi (2)
 
 のどちらを意味するのかということです。
+おそらく (2) であると思われますが、その根拠は、
+do klama xu と pau do klama xu との間に意味のちがいが生じないことから、
+pau は au のように文意に直接的に影響する UI ではなく、
+本質的には文意に影響を与えない ui のタイプの UI であると考えられるからです。
 
 ji'a
 pau pei zvati makau はたとえ (1) であったとしても、
@@ -18,11 +22,6 @@ ji'a
 たとえば pau pei go'i と言った場合に、
 「それは本当に聞いているの、それとも修辞的な疑問なのですか。」
 というような意味になると思われます。
-
-ku'i
-zvati ma
-に対しての返事として、
-pau pei zvati makau を考えるならば、
 
 to'unai
 
@@ -45,30 +44,30 @@ to'unai
 >    となります。つまり、構文上はmakauが剥き出しですが、
 >    意味上はsedu'uに包まれています。 
 
-
 .ua .ie ku'i .ienai
 
 なるほど、確かに pau が mi te preti lo ... losedu'u ... という意味であれば、pau pei zvati makau は、
 do te preti xu fi lo sedu'u zvati makau となり、意味が通りますね。
 
-.au do klama は mi djica lodu'u do klama と書き換えられることから類推すれば
+.au do klama が mi djica lodu'u do klama と書き換えられることから類推すれば
 そうなります。
-つまり、pau が、 .au が単独で欲求の意味を表せるように、
+つまり、pau が、.au が単独で欲求の意味を表せるように、
 単独で疑問の意味を持つとするならば、pau pei zvati makau は正しく解釈できます。
 
 ku'i
 pau は本当に mi te preti lo ... losedu'u ... と言い換えられるでしょうか。
 
-pau は、たとえば、
-pau do klama xu のように使われます。
-pau の CLL での説明は "like the symbol at the beginning of written Spanish
+まず第一に do klama xu と pau do klama xu に意味の違いは無いということがあります。
+これを見ると pau は .au のタイプの UI ではなく、
+どちらかと言えば文意に影響を与えない、.ui のタイプの UI であると思われます。
+
+CLL での説明は "like the symbol at the beginning of written Spanish
 questions that looks like an upside-down question mark" となっています。
 本来の意味としては pau は単独では疑問文を作ることはできないはずです。
 pau mi klama と言った場合、
 たとえば日本語で「全然ある」とか「すこししかある」と言った場合のような異和感が
 出てくるのではないでしょうか。
-もちろん「全然ある」は最近では普通に使われますので、
-必ずしも完全な誤用ではないとは思いますが。
+(「全然ある」は最近では普通に使われているようですが)
 僕には pau は「全然ない」の「全然」の部分にあたると思います。
 たとえば、「元気?」「全然」と言うことは可能です。
 同様に、"xu do jimpe" ".i pau" と言えば何か疑問を持っているなとわかりますが、
@@ -88,12 +87,14 @@ ku'i
 pau do klama と
 pau do klama xu とのちがいは以下の通りとなるでしょう。
 前者が何にポイントを置いて質問しているかが明らかでない疑問となります。
-つまり、来るのかどうかだけではなく、どうやって来るのか、何のために来るのか等。
-それに対して、後者は yes/no を聞いている質問であるという点が異なります。
+つまり、来るのかどうかだけではなく、どうやって来るのか、何のために来るのか等を
+聞いている可能性があります。
+それに対して、後者は yes/no を聞いている質問となります。
+
 しかし、CLL の説明からはそうは思えませんし、
 pau の後に肯定文が来るような表現を見たこともありません。
 もちろん pau にそういう機能があれば有用だとは思いますが、
-しかし、pau の「後に疑問文が来る」ということを示すという機能とは矛盾します。
+pau の「後に疑問文が来る」ということを示すという機能とは矛盾します。
 
 >    > djuno lo du'u zvati da と djuno lo du'u zvati ma kau との違いは
 >    > 実のところ強調点の違いだと思います。
